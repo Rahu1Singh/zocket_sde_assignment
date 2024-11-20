@@ -1,0 +1,8 @@
+{
+    "user_id": 1,
+    "product_name": "Headphones",
+    "product_description": "Noise-canceling headphones",
+    "product_images": ["headphones_image1.jpg", "headphones_image2.jpg"],
+    "product_price": 99.99
+}
+  
